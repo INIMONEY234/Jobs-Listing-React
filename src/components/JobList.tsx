@@ -59,7 +59,7 @@ const JobList = () => {
 
         {
             id: 6,
-            title: "Mobile Developement",
+            title: "Mobile Development",
             company: "SecureTy",
             location: "Remote",
             salary: "$10,000",
